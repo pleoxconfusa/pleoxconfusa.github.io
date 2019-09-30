@@ -13,7 +13,7 @@ I am a blockchain researcher at the University of Maryland, Baltimore County, wo
 
 ## <a name="papers">Research Papers
 
-CCSC:SE 2018
+A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](http://dl.acm.org/citation.cfm?id=3282588.3282612)
 
 ### License
 
