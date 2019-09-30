@@ -7,7 +7,7 @@ layout: default
 I am a blockchain researcher at the University of Maryland, Baltimore County, working on:
 + [Research Papers](#papers)
 
-## How to reach me
+## Contact Me
 + Email me [^1]
 + Check out my [Github](https://github.com/cbonyadi)
 
