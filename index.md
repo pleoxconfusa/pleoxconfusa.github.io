@@ -11,7 +11,7 @@ I am a blockchain researcher at the University of Maryland, Baltimore County, wo
 + Email me [^1]
 + Check out my [Github](https://github.com/cbonyadi)
 
-## <a name="papers">Papers
+## <a name="papers">Research Papers
 
 CCSC:SE 2018
 
