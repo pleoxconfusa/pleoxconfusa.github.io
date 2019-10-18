@@ -1,3 +1,3 @@
-# cbonyadi.github.io
+# confusedmufasa.github.io
 
 This is the source code to my website.
