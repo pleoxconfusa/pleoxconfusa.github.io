@@ -9,7 +9,7 @@ I am a blockchain researcher at the University of Maryland, Baltimore County, wo
 
 ## Contact Me
 + Email me [^1]
-+ Check out my [Github](https://github.com/cbonyadi)
++ Check out my [Github](https://github.com/confusedmufasa)
 
 ## <a name="papers">Research Papers
 
