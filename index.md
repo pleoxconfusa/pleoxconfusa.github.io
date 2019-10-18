@@ -17,7 +17,7 @@ A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](h
 
 ### License
 
-[MIT License](http://cbonyadi.github.io/LICENSE.txt)
+[MIT License](http://confusedmufasa.github.io/LICENSE.txt)
 
 ---
 [^1]: work \[at\] cyrusbonyadi \[dot\] io
