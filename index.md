@@ -6,7 +6,7 @@ layout: default
 
 I am a blockchain researcher at the University of Maryland, Baltimore County, working on:
 + [Research Papers](#papers)
-+ [Cyber Dawgs](umbccd.umbc.edu)
++ [Cyber Dawgs](https://umbccd.umbc.edu)
 
 ## Contact Me
 + Email me [^1]
