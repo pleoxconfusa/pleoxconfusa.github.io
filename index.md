@@ -6,7 +6,7 @@ layout: default
 
 I am a blockchain researcher at the University of Maryland, Baltimore County, working on:
 + [Research Papers](#papers)
-+ [Cyber Dawgs](https://umbccd.umbc.edu)
++ Technical Director of [Cyber Dawgs](https://umbccd.umbc.edu) winning [competitions](#comps)
 
 ## Contact Me
 + Email me [^1]
@@ -15,6 +15,13 @@ I am a blockchain researcher at the University of Maryland, Baltimore County, wo
 ## <a name="papers">Research Papers
 
 A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](http://dl.acm.org/citation.cfm?id=3282588.3282612)
+
+### <a name="comps">Cyber Dawgs Competitions
++ SANS Institute Tournament of Champions CORE NetWars First Timers Winner
++ DoE Cyberforce 2019 National Champions
++ MACCDC 2019 Qualifier
++ ISTS17 3rd Place
++ DoE Cyberforce 2018 Regional Champions, Brookhaven
 
 ### License
 
