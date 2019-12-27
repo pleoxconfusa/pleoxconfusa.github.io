@@ -10,11 +10,11 @@ I am a consensus theory researcher at the [University of Maryland, Baltimore Cou
 
 ## Contact Me
 + Email me [^1]
-+ [Github](https://github.com/confusedmufasa)
++ [Github](https://github.com/pantheracautus)
 
 ## <a name="papers">Research Papers
 
-A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](http://dl.acm.org/citation.cfm?id=3282588.3282612)
+A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](https://dl.acm.org/citation.cfm?id=3282588.3282612)
 
 ## <a name="comps">Cyber Dawgs Competitions
 
@@ -26,7 +26,7 @@ A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](h
 
 ### License
 
-[MIT License](http://confusedmufasa.github.io/LICENSE.txt)
+[MIT License](https://pantheracautus.github.io/LICENSE.txt)
 
 ---
 [^1]: work \[at\] cyrusbonyadi \[dot\] io
