@@ -10,7 +10,7 @@ I am a consensus theory researcher at the [University of Maryland, Baltimore Cou
 
 ## Contact Me
 + Email me [^1]
-+ [Github](https://github.com/pantheracautus)
++ [Github](https://github.com/pleoxconfusa)
 
 ## <a name="papers">Research Papers
 
@@ -26,7 +26,7 @@ A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](h
 
 ### License
 
-[MIT License](https://pantheracautus.github.io/LICENSE.txt)
+[MIT License](https://pleoxconfusa.github.io/LICENSE.txt)
 
 ---
 [^1]: work \[at\] cyrusbonyadi \[dot\] io
