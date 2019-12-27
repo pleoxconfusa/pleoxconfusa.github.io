@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a blockchain researcher at the University of Maryland, Baltimore County, working on:
+I am a consensus theory researcher at the [University of Maryland, Baltimore County](https://dss.umbc.edu/), working on:
 + [Research Papers](#papers)
 + Technical Director of [Cyber Dawgs](https://umbccd.umbc.edu), [competing](#comps)
 
