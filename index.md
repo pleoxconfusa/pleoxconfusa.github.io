@@ -18,7 +18,7 @@ A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](h
 
 ## <a name="comps">Cyber Dawgs Competitions
 
-+ SANS Institute Tournament of Champions CORE NetWars First Timers Winner
++ SANS Institute Tournament of Champions CORE NetWars First Timers Team Winner
 + DoE Cyberforce 2019 National Champions
 + MACCDC 2019 Qualifier
 + ISTS17 3rd Place
