@@ -6,7 +6,7 @@ layout: default
 
 I am a consensus theory researcher at the [University of Maryland, Baltimore County](https://dss.umbc.edu/), working on:
 + [Research Papers](#papers)
-+ Technical Director of [Cyber Dawgs](https://umbccd.umbc.edu), [competing](#comps)
++ Technical Director of [Cyber Dawgs](https://umbccd.umbc.edu) while [competing](#comps)
 
 ## Contact Me
 + Email me [^1]
