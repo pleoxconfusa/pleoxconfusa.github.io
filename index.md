@@ -7,6 +7,7 @@ layout: default
 I am a consensus theory researcher at the [University of Maryland, Baltimore County](https://dss.umbc.edu/), working on:
 + [Research Papers](#papers)
 + Technical Director of [Cyber Dawgs](https://umbccd.umbc.edu) while [competing](#comps)
++ Personal Projects
 
 ## Contact Me
 + Email me [^1]
@@ -23,6 +24,9 @@ A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](h
 + MACCDC 2019 Qualifier
 + ISTS17 3rd Place
 + DoE Cyberforce 2018 Regional Champions, Brookhaven
+
+## <a name="personal">Personal Projects
++ Social Engineering CTF Challenge
 
 ### License
 
