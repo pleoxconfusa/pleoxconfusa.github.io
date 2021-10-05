@@ -6,17 +6,14 @@ layout: default
 
 I am a consensus theory researcher at the [University of Maryland, Baltimore County](https://dss.umbc.edu/), working on:
 + [Research Papers](#papers)
-+ Technical Director of [Cyber Dawgs](https://umbccd.umbc.edu) while [competing](#comps)
 + Personal Projects
 
 ## Contact Me
 + Email me [^1]
 + [Github](https://github.com/pleoxconfusa)
 
-## <a name="papers">Research Papers
-
-A Pilot Study in Using Virtual Reality During Theatre Rehearsal [CCSC:SE 2018](https://dl.acm.org/citation.cfm?id=3282588.3282612)
-
+## <a name="papers">(Research Papers)[https://scholar.google.com/citations?hl=en&user=hoZQSwgAAAAJ]
+  
 ## <a name="comps">Cyber Dawgs Competitions
 
 + MACCDC 2020 1st Place
