@@ -12,7 +12,9 @@ I am a consensus theory researcher at the [University of Maryland, Baltimore Cou
 + Email me [^1]
 + [Github](https://github.com/pleoxconfusa)
 
-## <a name="papers">[Research Papers](https://scholar.google.com/citations?hl=en&user=hoZQSwgAAAAJ)
+## <a name="papers">Research Papers
+
+[Research Papers](https://scholar.google.com/citations?hl=en&user=hoZQSwgAAAAJ)
   
 ## <a name="comps">Cyber Dawgs Competitions
 
