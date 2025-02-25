@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a consensus theory researcher alumnus of [University of Maryland, Baltimore County](https://dss.umbc.edu/), having worked on:
+I am a consensus theory researcher alumnus of [University of Maryland, Baltimore County](https://cisa.umbc.edu/), having worked on:
 + [Research Papers](https://scholar.google.com/citations?hl=en&user=hoZQSwgAAAAJ)
 + Personal Projects
 
