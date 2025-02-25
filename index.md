@@ -5,16 +5,13 @@ layout: default
 ## About Me
 
 I am a consensus theory researcher alumnus of [University of Maryland, Baltimore County](https://dss.umbc.edu/), having worked on:
-+ [Research Papers](#papers)
++ [Research Papers](https://scholar.google.com/citations?hl=en&user=hoZQSwgAAAAJ)
 + Personal Projects
 
 ## Contact Me
 + Email me [^1]
 + [Github](https://github.com/pleoxconfusa)
 
-## <a name="papers">Research Papers
-
-[Research Papers](https://scholar.google.com/citations?hl=en&user=hoZQSwgAAAAJ)
   
 ## <a name="comps">Cyber Dawgs Competitions
 
