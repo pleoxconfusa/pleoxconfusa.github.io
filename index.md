@@ -3,16 +3,16 @@ layout: default
 ---
 
 ## About Me
-
-I am a consensus theory researcher alumnus of [University of Maryland, Baltimore County](https://cisa.umbc.edu/), having worked on:
+Cyrus Jian Bonyadi is a cybersecurity, consensus theory, and distributed systems expert focused on resilience, safety, and security of complex networks of all types. Their work focuses on functional risk analysis methods, network theory approaches, and applied economic analysis in critical infrastructure, cyber systems, and governance. Dr. Bonyadi received their PhD in computer science from University of Maryland Baltimore County and has served as a systems analyst and risk researcher for the last 7 years.
 + [Research Papers](https://scholar.google.com/citations?hl=en&user=hoZQSwgAAAAJ)
-+ Personal Projects
+<--! + Personal Projects -->
++ lswtm.com (link broken)
 
 ## Contact Me
 + Email me [^1]
 + [Github](https://github.com/pleoxconfusa)
 
-  
+<!--
 ## <a name="comps">Cyber Dawgs Competitions
 
 + MACCDC 2020 1st Place
@@ -24,6 +24,7 @@ I am a consensus theory researcher alumnus of [University of Maryland, Baltimore
 
 ## <a name="personal">Personal Projects
 + Social Engineering CTF Challenge
+-->
 
 ### License
 
